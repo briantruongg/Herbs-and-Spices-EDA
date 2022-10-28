@@ -1,6 +1,6 @@
 # herbs and spices eda
 
-analyzing a larger dataset regarding the nutritional content of food
+analyzing a relatively larger dataset regarding the nutritional content of food
 
 i decided to focus my analysis of this dataset to just the portion of herbs and spices
 
